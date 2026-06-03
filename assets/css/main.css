@@ -1860,8 +1860,8 @@ input, select, textarea {
 			}
 
 			.icon.style2:hover {
-				color: #f2849e;
-				border-color: #f2849e;
+				color: #423f40;
+				border-color: #ebe1e3;
 			}
 
 			.icon.style2:active {
@@ -2711,20 +2711,20 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #e1e69f;
+				background-color: #635d53;
 				
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				background-color: #695122;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #37313bc4;
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #c75b9b;
+				background-color: #8349329f;
 			}
 
 			.tiles article.style5 > .image:before {
